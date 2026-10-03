@@ -6,7 +6,7 @@ How to use it: open a terminal in this folder, run `dotnet run`, then use option
 
 I wrote this so the hours I log for five courses stay in tables instead of a text file.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XLqKNQObRKs)
 
 # Relational Database
 
